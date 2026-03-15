@@ -21,13 +21,14 @@ The dataset used in this project is simulated but represents realistic scenarios
 ## Project Structure
 
 railway-signaling-failure-analysis
+
 │
-├── data
+├── dat
 │ └── signaling_failures.csv
 │
 ├── notebooks
 │ └── analysis.ipynb
-│
+|
 ├── src
 │ └── data_cleaning.py
 │
