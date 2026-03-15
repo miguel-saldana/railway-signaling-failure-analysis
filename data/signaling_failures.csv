@@ -1,0 +1,1001 @@
+date,line,station,system_type,failure_type,intervention_minutes
+2024-01-01 00:00:00,Line_C,Milano Centrale,Cabin Signaling,Communication Error,8
+2024-01-01 01:00:00,Line_C,Torino Porta Nuova,ACC,Communication Error,79
+2024-01-01 02:00:00,Line_C,Milano Rogoredo,ACC,Signal Loss,100
+2024-01-01 03:00:00,Line_C,Milano Centrale,Cabin Signaling,Hardware Fault,151
+2024-01-01 04:00:00,Line_B,Torino Porta Nuova,ACC,Power Failure,75
+2024-01-01 05:00:00,Line_A,Torino Porta Susa,Electronic Relay,Power Failure,11
+2024-01-01 06:00:00,Line_B,Genova Nervi,Electronic Relay,Communication Error,146
+2024-01-01 07:00:00,Line_C,Milano Centrale,ACC,Signal Loss,78
+2024-01-01 08:00:00,Line_A,Milano Centrale,ACC,Power Failure,46
+2024-01-01 09:00:00,Line_A,Genova Nervi,Electronic Relay,Hardware Fault,126
+2024-01-01 10:00:00,Line_A,Milano Centrale,ACC,Communication Error,170
+2024-01-01 11:00:00,Line_C,Torino Porta Nuova,ACC,Communication Error,166
+2024-01-01 12:00:00,Line_A,Milano Rogoredo,ACC,Signal Loss,48
+2024-01-01 13:00:00,Line_C,Milano Centrale,Electronic Relay,Hardware Fault,143
+2024-01-01 14:00:00,Line_B,Genova Nervi,Cabin Signaling,Power Failure,53
+2024-01-01 15:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Power Failure,66
+2024-01-01 16:00:00,Line_B,Torino Porta Susa,ACC,Signal Loss,107
+2024-01-01 17:00:00,Line_A,Genova Nervi,Electronic Relay,Signal Loss,142
+2024-01-01 18:00:00,Line_B,Torino Porta Susa,ACC,Power Failure,154
+2024-01-01 19:00:00,Line_A,Genova Brignole,ACC,Communication Error,92
+2024-01-01 20:00:00,Line_B,Milano Rogoredo,ACC,Communication Error,138
+2024-01-01 21:00:00,Line_B,Genova Nervi,Electronic Relay,Signal Loss,72
+2024-01-01 22:00:00,Line_A,Milano Centrale,Cabin Signaling,Hardware Fault,19
+2024-01-01 23:00:00,Line_B,Milano Rogoredo,Electronic Relay,Signal Loss,40
+2024-01-02 00:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Communication Error,167
+2024-01-02 01:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Communication Error,111
+2024-01-02 02:00:00,Line_C,Torino Porta Susa,ACC,Communication Error,55
+2024-01-02 03:00:00,Line_A,Milano Rogoredo,ACC,Power Failure,23
+2024-01-02 04:00:00,Line_C,Genova Brignole,ACC,Signal Loss,78
+2024-01-02 05:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Hardware Fault,6
+2024-01-02 06:00:00,Line_A,Genova Nervi,Electronic Relay,Power Failure,55
+2024-01-02 07:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Power Failure,63
+2024-01-02 08:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Hardware Fault,43
+2024-01-02 09:00:00,Line_A,Genova Nervi,Cabin Signaling,Signal Loss,129
+2024-01-02 10:00:00,Line_B,Milano Rogoredo,Electronic Relay,Communication Error,27
+2024-01-02 11:00:00,Line_C,Genova Nervi,Electronic Relay,Signal Loss,31
+2024-01-02 12:00:00,Line_A,Genova Nervi,Cabin Signaling,Signal Loss,142
+2024-01-02 13:00:00,Line_C,Milano Centrale,ACC,Communication Error,49
+2024-01-02 14:00:00,Line_B,Milano Centrale,Cabin Signaling,Communication Error,131
+2024-01-02 15:00:00,Line_C,Milano Rogoredo,Electronic Relay,Communication Error,129
+2024-01-02 16:00:00,Line_C,Genova Brignole,Cabin Signaling,Hardware Fault,147
+2024-01-02 17:00:00,Line_A,Genova Nervi,ACC,Power Failure,52
+2024-01-02 18:00:00,Line_C,Genova Brignole,Cabin Signaling,Hardware Fault,156
+2024-01-02 19:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Hardware Fault,29
+2024-01-02 20:00:00,Line_C,Milano Centrale,Electronic Relay,Hardware Fault,138
+2024-01-02 21:00:00,Line_C,Torino Porta Susa,Electronic Relay,Hardware Fault,126
+2024-01-02 22:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Signal Loss,174
+2024-01-02 23:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Power Failure,46
+2024-01-03 00:00:00,Line_C,Torino Porta Susa,ACC,Signal Loss,72
+2024-01-03 01:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Hardware Fault,130
+2024-01-03 02:00:00,Line_C,Genova Nervi,Electronic Relay,Signal Loss,169
+2024-01-03 03:00:00,Line_C,Genova Brignole,Cabin Signaling,Power Failure,172
+2024-01-03 04:00:00,Line_A,Genova Brignole,Cabin Signaling,Hardware Fault,161
+2024-01-03 05:00:00,Line_A,Genova Nervi,ACC,Hardware Fault,38
+2024-01-03 06:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Power Failure,154
+2024-01-03 07:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Hardware Fault,109
+2024-01-03 08:00:00,Line_B,Torino Porta Susa,Electronic Relay,Power Failure,8
+2024-01-03 09:00:00,Line_A,Milano Rogoredo,ACC,Signal Loss,33
+2024-01-03 10:00:00,Line_B,Milano Centrale,Electronic Relay,Communication Error,154
+2024-01-03 11:00:00,Line_B,Milano Rogoredo,ACC,Signal Loss,106
+2024-01-03 12:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Communication Error,22
+2024-01-03 13:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Communication Error,50
+2024-01-03 14:00:00,Line_C,Genova Brignole,Electronic Relay,Power Failure,162
+2024-01-03 15:00:00,Line_C,Torino Porta Nuova,ACC,Power Failure,118
+2024-01-03 16:00:00,Line_A,Milano Centrale,ACC,Hardware Fault,170
+2024-01-03 17:00:00,Line_C,Genova Brignole,Electronic Relay,Communication Error,137
+2024-01-03 18:00:00,Line_C,Torino Porta Susa,ACC,Hardware Fault,64
+2024-01-03 19:00:00,Line_B,Genova Nervi,Cabin Signaling,Signal Loss,82
+2024-01-03 20:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Signal Loss,63
+2024-01-03 21:00:00,Line_A,Milano Rogoredo,ACC,Signal Loss,13
+2024-01-03 22:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Signal Loss,169
+2024-01-03 23:00:00,Line_A,Milano Centrale,ACC,Hardware Fault,161
+2024-01-04 00:00:00,Line_B,Milano Rogoredo,ACC,Communication Error,54
+2024-01-04 01:00:00,Line_B,Genova Brignole,Electronic Relay,Hardware Fault,179
+2024-01-04 02:00:00,Line_C,Genova Brignole,Electronic Relay,Communication Error,172
+2024-01-04 03:00:00,Line_A,Torino Porta Susa,ACC,Communication Error,151
+2024-01-04 04:00:00,Line_B,Milano Centrale,Electronic Relay,Signal Loss,14
+2024-01-04 05:00:00,Line_C,Milano Centrale,ACC,Power Failure,162
+2024-01-04 06:00:00,Line_B,Genova Brignole,Electronic Relay,Communication Error,26
+2024-01-04 07:00:00,Line_A,Milano Rogoredo,Electronic Relay,Power Failure,177
+2024-01-04 08:00:00,Line_B,Milano Centrale,Electronic Relay,Hardware Fault,166
+2024-01-04 09:00:00,Line_A,Milano Centrale,Cabin Signaling,Power Failure,152
+2024-01-04 10:00:00,Line_C,Milano Centrale,Electronic Relay,Power Failure,73
+2024-01-04 11:00:00,Line_A,Genova Brignole,ACC,Hardware Fault,136
+2024-01-04 12:00:00,Line_C,Genova Nervi,Electronic Relay,Signal Loss,122
+2024-01-04 13:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Power Failure,119
+2024-01-04 14:00:00,Line_A,Milano Centrale,Cabin Signaling,Power Failure,104
+2024-01-04 15:00:00,Line_A,Genova Nervi,ACC,Signal Loss,19
+2024-01-04 16:00:00,Line_A,Genova Brignole,Cabin Signaling,Signal Loss,53
+2024-01-04 17:00:00,Line_C,Genova Brignole,ACC,Signal Loss,28
+2024-01-04 18:00:00,Line_B,Milano Centrale,Electronic Relay,Signal Loss,59
+2024-01-04 19:00:00,Line_B,Genova Nervi,Cabin Signaling,Communication Error,133
+2024-01-04 20:00:00,Line_A,Genova Nervi,ACC,Signal Loss,171
+2024-01-04 21:00:00,Line_B,Milano Rogoredo,Electronic Relay,Hardware Fault,154
+2024-01-04 22:00:00,Line_C,Genova Brignole,Electronic Relay,Power Failure,50
+2024-01-04 23:00:00,Line_B,Milano Rogoredo,ACC,Power Failure,65
+2024-01-05 00:00:00,Line_C,Genova Nervi,Cabin Signaling,Hardware Fault,120
+2024-01-05 01:00:00,Line_A,Torino Porta Nuova,Electronic Relay,Communication Error,23
+2024-01-05 02:00:00,Line_A,Genova Brignole,Electronic Relay,Signal Loss,12
+2024-01-05 03:00:00,Line_C,Genova Nervi,Cabin Signaling,Hardware Fault,154
+2024-01-05 04:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Signal Loss,169
+2024-01-05 05:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Signal Loss,79
+2024-01-05 06:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Communication Error,15
+2024-01-05 07:00:00,Line_A,Genova Nervi,ACC,Signal Loss,26
+2024-01-05 08:00:00,Line_B,Torino Porta Susa,ACC,Power Failure,8
+2024-01-05 09:00:00,Line_A,Torino Porta Nuova,Electronic Relay,Communication Error,70
+2024-01-05 10:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Signal Loss,179
+2024-01-05 11:00:00,Line_B,Torino Porta Susa,Electronic Relay,Hardware Fault,21
+2024-01-05 12:00:00,Line_A,Genova Brignole,Electronic Relay,Signal Loss,84
+2024-01-05 13:00:00,Line_C,Milano Centrale,Cabin Signaling,Signal Loss,27
+2024-01-05 14:00:00,Line_C,Torino Porta Susa,ACC,Communication Error,56
+2024-01-05 15:00:00,Line_C,Milano Centrale,ACC,Signal Loss,69
+2024-01-05 16:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Communication Error,169
+2024-01-05 17:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Signal Loss,115
+2024-01-05 18:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Signal Loss,9
+2024-01-05 19:00:00,Line_B,Milano Rogoredo,Electronic Relay,Communication Error,5
+2024-01-05 20:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Signal Loss,37
+2024-01-05 21:00:00,Line_B,Genova Brignole,ACC,Hardware Fault,62
+2024-01-05 22:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Hardware Fault,29
+2024-01-05 23:00:00,Line_A,Torino Porta Nuova,ACC,Communication Error,133
+2024-01-06 00:00:00,Line_A,Genova Nervi,Electronic Relay,Communication Error,136
+2024-01-06 01:00:00,Line_C,Genova Brignole,Electronic Relay,Signal Loss,57
+2024-01-06 02:00:00,Line_B,Torino Porta Susa,ACC,Communication Error,103
+2024-01-06 03:00:00,Line_C,Torino Porta Susa,ACC,Signal Loss,125
+2024-01-06 04:00:00,Line_A,Genova Brignole,Cabin Signaling,Hardware Fault,13
+2024-01-06 05:00:00,Line_C,Milano Centrale,ACC,Power Failure,164
+2024-01-06 06:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Communication Error,165
+2024-01-06 07:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Signal Loss,47
+2024-01-06 08:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Signal Loss,41
+2024-01-06 09:00:00,Line_B,Milano Rogoredo,ACC,Hardware Fault,19
+2024-01-06 10:00:00,Line_B,Genova Nervi,ACC,Hardware Fault,18
+2024-01-06 11:00:00,Line_B,Genova Brignole,Electronic Relay,Power Failure,63
+2024-01-06 12:00:00,Line_A,Genova Brignole,Cabin Signaling,Hardware Fault,17
+2024-01-06 13:00:00,Line_A,Genova Brignole,ACC,Hardware Fault,45
+2024-01-06 14:00:00,Line_A,Torino Porta Nuova,ACC,Hardware Fault,83
+2024-01-06 15:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Power Failure,62
+2024-01-06 16:00:00,Line_A,Torino Porta Susa,ACC,Hardware Fault,95
+2024-01-06 17:00:00,Line_B,Genova Nervi,ACC,Hardware Fault,59
+2024-01-06 18:00:00,Line_C,Genova Brignole,ACC,Power Failure,177
+2024-01-06 19:00:00,Line_B,Milano Rogoredo,Electronic Relay,Hardware Fault,104
+2024-01-06 20:00:00,Line_A,Torino Porta Susa,ACC,Power Failure,46
+2024-01-06 21:00:00,Line_A,Milano Rogoredo,Electronic Relay,Signal Loss,160
+2024-01-06 22:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Power Failure,49
+2024-01-06 23:00:00,Line_C,Torino Porta Nuova,ACC,Power Failure,127
+2024-01-07 00:00:00,Line_C,Genova Nervi,Electronic Relay,Hardware Fault,87
+2024-01-07 01:00:00,Line_C,Milano Rogoredo,Electronic Relay,Hardware Fault,163
+2024-01-07 02:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Power Failure,53
+2024-01-07 03:00:00,Line_A,Milano Centrale,ACC,Signal Loss,35
+2024-01-07 04:00:00,Line_C,Milano Rogoredo,ACC,Hardware Fault,169
+2024-01-07 05:00:00,Line_A,Milano Centrale,ACC,Signal Loss,69
+2024-01-07 06:00:00,Line_C,Milano Centrale,Electronic Relay,Communication Error,144
+2024-01-07 07:00:00,Line_C,Genova Nervi,Electronic Relay,Hardware Fault,142
+2024-01-07 08:00:00,Line_A,Torino Porta Nuova,Electronic Relay,Hardware Fault,72
+2024-01-07 09:00:00,Line_A,Torino Porta Nuova,ACC,Communication Error,124
+2024-01-07 10:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Communication Error,142
+2024-01-07 11:00:00,Line_B,Genova Brignole,Electronic Relay,Power Failure,8
+2024-01-07 12:00:00,Line_A,Torino Porta Nuova,Electronic Relay,Power Failure,41
+2024-01-07 13:00:00,Line_A,Milano Centrale,Electronic Relay,Signal Loss,99
+2024-01-07 14:00:00,Line_C,Genova Nervi,Cabin Signaling,Hardware Fault,68
+2024-01-07 15:00:00,Line_B,Genova Brignole,ACC,Power Failure,18
+2024-01-07 16:00:00,Line_C,Torino Porta Susa,ACC,Hardware Fault,32
+2024-01-07 17:00:00,Line_A,Genova Nervi,Cabin Signaling,Communication Error,129
+2024-01-07 18:00:00,Line_C,Torino Porta Susa,ACC,Power Failure,128
+2024-01-07 19:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Power Failure,88
+2024-01-07 20:00:00,Line_A,Torino Porta Nuova,ACC,Power Failure,43
+2024-01-07 21:00:00,Line_A,Milano Centrale,Cabin Signaling,Hardware Fault,39
+2024-01-07 22:00:00,Line_A,Genova Brignole,ACC,Communication Error,162
+2024-01-07 23:00:00,Line_C,Genova Brignole,Electronic Relay,Hardware Fault,87
+2024-01-08 00:00:00,Line_C,Genova Brignole,ACC,Signal Loss,81
+2024-01-08 01:00:00,Line_A,Genova Nervi,Cabin Signaling,Signal Loss,166
+2024-01-08 02:00:00,Line_A,Genova Nervi,Electronic Relay,Signal Loss,152
+2024-01-08 03:00:00,Line_B,Genova Nervi,ACC,Power Failure,156
+2024-01-08 04:00:00,Line_A,Genova Brignole,ACC,Communication Error,169
+2024-01-08 05:00:00,Line_A,Genova Brignole,Electronic Relay,Hardware Fault,161
+2024-01-08 06:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Power Failure,52
+2024-01-08 07:00:00,Line_C,Milano Centrale,Electronic Relay,Power Failure,92
+2024-01-08 08:00:00,Line_B,Genova Nervi,ACC,Signal Loss,83
+2024-01-08 09:00:00,Line_B,Torino Porta Susa,Electronic Relay,Power Failure,85
+2024-01-08 10:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Hardware Fault,107
+2024-01-08 11:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Power Failure,159
+2024-01-08 12:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Hardware Fault,13
+2024-01-08 13:00:00,Line_C,Genova Brignole,Cabin Signaling,Hardware Fault,118
+2024-01-08 14:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Communication Error,56
+2024-01-08 15:00:00,Line_C,Torino Porta Susa,Electronic Relay,Power Failure,132
+2024-01-08 16:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Hardware Fault,28
+2024-01-08 17:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Signal Loss,52
+2024-01-08 18:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Signal Loss,120
+2024-01-08 19:00:00,Line_C,Milano Centrale,Cabin Signaling,Communication Error,89
+2024-01-08 20:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Hardware Fault,126
+2024-01-08 21:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Power Failure,178
+2024-01-08 22:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Communication Error,80
+2024-01-08 23:00:00,Line_B,Genova Nervi,Cabin Signaling,Power Failure,179
+2024-01-09 00:00:00,Line_A,Milano Centrale,ACC,Hardware Fault,98
+2024-01-09 01:00:00,Line_A,Genova Brignole,Electronic Relay,Communication Error,171
+2024-01-09 02:00:00,Line_A,Genova Nervi,ACC,Hardware Fault,148
+2024-01-09 03:00:00,Line_C,Milano Rogoredo,ACC,Communication Error,124
+2024-01-09 04:00:00,Line_C,Torino Porta Susa,Electronic Relay,Power Failure,152
+2024-01-09 05:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Signal Loss,31
+2024-01-09 06:00:00,Line_B,Genova Brignole,ACC,Signal Loss,58
+2024-01-09 07:00:00,Line_B,Milano Centrale,ACC,Hardware Fault,104
+2024-01-09 08:00:00,Line_A,Genova Nervi,Cabin Signaling,Power Failure,22
+2024-01-09 09:00:00,Line_C,Genova Brignole,ACC,Hardware Fault,77
+2024-01-09 10:00:00,Line_A,Milano Rogoredo,ACC,Communication Error,19
+2024-01-09 11:00:00,Line_A,Genova Nervi,Cabin Signaling,Communication Error,139
+2024-01-09 12:00:00,Line_B,Milano Centrale,Electronic Relay,Hardware Fault,157
+2024-01-09 13:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Power Failure,148
+2024-01-09 14:00:00,Line_A,Milano Centrale,Electronic Relay,Hardware Fault,175
+2024-01-09 15:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Communication Error,70
+2024-01-09 16:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Power Failure,137
+2024-01-09 17:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Communication Error,64
+2024-01-09 18:00:00,Line_C,Genova Brignole,ACC,Hardware Fault,14
+2024-01-09 19:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Power Failure,107
+2024-01-09 20:00:00,Line_A,Torino Porta Nuova,ACC,Communication Error,27
+2024-01-09 21:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Hardware Fault,151
+2024-01-09 22:00:00,Line_B,Genova Brignole,ACC,Hardware Fault,142
+2024-01-09 23:00:00,Line_C,Milano Centrale,Electronic Relay,Hardware Fault,161
+2024-01-10 00:00:00,Line_C,Genova Brignole,ACC,Communication Error,12
+2024-01-10 01:00:00,Line_A,Torino Porta Nuova,Electronic Relay,Signal Loss,69
+2024-01-10 02:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Hardware Fault,151
+2024-01-10 03:00:00,Line_C,Genova Brignole,ACC,Communication Error,153
+2024-01-10 04:00:00,Line_A,Milano Centrale,Electronic Relay,Hardware Fault,75
+2024-01-10 05:00:00,Line_A,Torino Porta Nuova,Electronic Relay,Signal Loss,87
+2024-01-10 06:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Hardware Fault,55
+2024-01-10 07:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Communication Error,137
+2024-01-10 08:00:00,Line_C,Milano Centrale,ACC,Hardware Fault,109
+2024-01-10 09:00:00,Line_B,Milano Rogoredo,ACC,Power Failure,31
+2024-01-10 10:00:00,Line_B,Torino Porta Susa,Electronic Relay,Communication Error,78
+2024-01-10 11:00:00,Line_B,Genova Brignole,Electronic Relay,Hardware Fault,31
+2024-01-10 12:00:00,Line_B,Genova Nervi,Cabin Signaling,Hardware Fault,109
+2024-01-10 13:00:00,Line_B,Genova Brignole,Cabin Signaling,Hardware Fault,75
+2024-01-10 14:00:00,Line_A,Genova Nervi,Cabin Signaling,Hardware Fault,114
+2024-01-10 15:00:00,Line_A,Torino Porta Susa,ACC,Power Failure,36
+2024-01-10 16:00:00,Line_C,Genova Nervi,ACC,Power Failure,85
+2024-01-10 17:00:00,Line_A,Genova Brignole,Cabin Signaling,Power Failure,92
+2024-01-10 18:00:00,Line_C,Genova Nervi,ACC,Signal Loss,19
+2024-01-10 19:00:00,Line_B,Genova Brignole,Electronic Relay,Signal Loss,133
+2024-01-10 20:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Communication Error,8
+2024-01-10 21:00:00,Line_C,Torino Porta Nuova,ACC,Signal Loss,79
+2024-01-10 22:00:00,Line_A,Genova Nervi,Cabin Signaling,Communication Error,85
+2024-01-10 23:00:00,Line_B,Milano Centrale,ACC,Signal Loss,176
+2024-01-11 00:00:00,Line_B,Torino Porta Nuova,ACC,Power Failure,64
+2024-01-11 01:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Signal Loss,45
+2024-01-11 02:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Power Failure,133
+2024-01-11 03:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Hardware Fault,64
+2024-01-11 04:00:00,Line_A,Milano Centrale,ACC,Power Failure,174
+2024-01-11 05:00:00,Line_C,Torino Porta Susa,ACC,Communication Error,69
+2024-01-11 06:00:00,Line_A,Milano Centrale,ACC,Signal Loss,29
+2024-01-11 07:00:00,Line_C,Milano Centrale,ACC,Signal Loss,128
+2024-01-11 08:00:00,Line_C,Milano Centrale,Cabin Signaling,Communication Error,143
+2024-01-11 09:00:00,Line_C,Milano Centrale,Electronic Relay,Communication Error,148
+2024-01-11 10:00:00,Line_B,Genova Nervi,Electronic Relay,Hardware Fault,64
+2024-01-11 11:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Hardware Fault,149
+2024-01-11 12:00:00,Line_A,Milano Rogoredo,ACC,Communication Error,177
+2024-01-11 13:00:00,Line_A,Milano Centrale,Electronic Relay,Communication Error,177
+2024-01-11 14:00:00,Line_A,Genova Nervi,ACC,Power Failure,18
+2024-01-11 15:00:00,Line_C,Milano Centrale,Electronic Relay,Hardware Fault,43
+2024-01-11 16:00:00,Line_C,Milano Centrale,ACC,Hardware Fault,100
+2024-01-11 17:00:00,Line_B,Genova Brignole,Cabin Signaling,Hardware Fault,167
+2024-01-11 18:00:00,Line_A,Genova Nervi,Cabin Signaling,Power Failure,159
+2024-01-11 19:00:00,Line_A,Genova Brignole,Electronic Relay,Communication Error,48
+2024-01-11 20:00:00,Line_C,Genova Nervi,Cabin Signaling,Signal Loss,82
+2024-01-11 21:00:00,Line_C,Milano Rogoredo,Electronic Relay,Power Failure,77
+2024-01-11 22:00:00,Line_B,Torino Porta Nuova,ACC,Communication Error,8
+2024-01-11 23:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Signal Loss,81
+2024-01-12 00:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Communication Error,172
+2024-01-12 01:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Hardware Fault,22
+2024-01-12 02:00:00,Line_A,Genova Brignole,Cabin Signaling,Hardware Fault,143
+2024-01-12 03:00:00,Line_B,Genova Brignole,Cabin Signaling,Communication Error,60
+2024-01-12 04:00:00,Line_C,Genova Nervi,Cabin Signaling,Communication Error,22
+2024-01-12 05:00:00,Line_A,Genova Nervi,ACC,Hardware Fault,83
+2024-01-12 06:00:00,Line_A,Milano Rogoredo,ACC,Hardware Fault,122
+2024-01-12 07:00:00,Line_A,Torino Porta Nuova,ACC,Power Failure,73
+2024-01-12 08:00:00,Line_C,Torino Porta Susa,Electronic Relay,Power Failure,140
+2024-01-12 09:00:00,Line_C,Milano Centrale,Cabin Signaling,Power Failure,23
+2024-01-12 10:00:00,Line_C,Milano Rogoredo,ACC,Hardware Fault,11
+2024-01-12 11:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Signal Loss,42
+2024-01-12 12:00:00,Line_A,Milano Centrale,Cabin Signaling,Hardware Fault,165
+2024-01-12 13:00:00,Line_A,Genova Brignole,Cabin Signaling,Hardware Fault,64
+2024-01-12 14:00:00,Line_A,Torino Porta Susa,Electronic Relay,Signal Loss,13
+2024-01-12 15:00:00,Line_B,Torino Porta Nuova,ACC,Signal Loss,166
+2024-01-12 16:00:00,Line_B,Genova Brignole,Electronic Relay,Power Failure,68
+2024-01-12 17:00:00,Line_A,Torino Porta Susa,ACC,Power Failure,144
+2024-01-12 18:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Signal Loss,179
+2024-01-12 19:00:00,Line_C,Milano Centrale,Cabin Signaling,Signal Loss,78
+2024-01-12 20:00:00,Line_C,Torino Porta Susa,Electronic Relay,Communication Error,154
+2024-01-12 21:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Hardware Fault,136
+2024-01-12 22:00:00,Line_A,Torino Porta Susa,Electronic Relay,Communication Error,142
+2024-01-12 23:00:00,Line_C,Genova Brignole,Cabin Signaling,Communication Error,33
+2024-01-13 00:00:00,Line_A,Torino Porta Nuova,Electronic Relay,Communication Error,36
+2024-01-13 01:00:00,Line_B,Milano Rogoredo,Electronic Relay,Power Failure,57
+2024-01-13 02:00:00,Line_B,Milano Centrale,Cabin Signaling,Communication Error,8
+2024-01-13 03:00:00,Line_C,Genova Nervi,ACC,Signal Loss,162
+2024-01-13 04:00:00,Line_B,Genova Nervi,ACC,Power Failure,115
+2024-01-13 05:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Communication Error,126
+2024-01-13 06:00:00,Line_C,Milano Rogoredo,ACC,Communication Error,126
+2024-01-13 07:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Communication Error,170
+2024-01-13 08:00:00,Line_C,Torino Porta Susa,Electronic Relay,Communication Error,177
+2024-01-13 09:00:00,Line_A,Genova Nervi,Electronic Relay,Communication Error,121
+2024-01-13 10:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Signal Loss,13
+2024-01-13 11:00:00,Line_C,Milano Centrale,Electronic Relay,Hardware Fault,178
+2024-01-13 12:00:00,Line_B,Milano Rogoredo,Electronic Relay,Power Failure,161
+2024-01-13 13:00:00,Line_B,Milano Centrale,ACC,Power Failure,63
+2024-01-13 14:00:00,Line_A,Genova Brignole,Electronic Relay,Power Failure,41
+2024-01-13 15:00:00,Line_C,Torino Porta Susa,ACC,Power Failure,24
+2024-01-13 16:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Signal Loss,145
+2024-01-13 17:00:00,Line_B,Milano Centrale,ACC,Hardware Fault,123
+2024-01-13 18:00:00,Line_B,Genova Brignole,Electronic Relay,Hardware Fault,179
+2024-01-13 19:00:00,Line_B,Genova Brignole,Cabin Signaling,Communication Error,140
+2024-01-13 20:00:00,Line_A,Genova Brignole,ACC,Hardware Fault,17
+2024-01-13 21:00:00,Line_A,Genova Brignole,ACC,Hardware Fault,78
+2024-01-13 22:00:00,Line_B,Genova Brignole,Electronic Relay,Communication Error,10
+2024-01-13 23:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Hardware Fault,131
+2024-01-14 00:00:00,Line_C,Torino Porta Nuova,ACC,Signal Loss,56
+2024-01-14 01:00:00,Line_A,Torino Porta Susa,ACC,Signal Loss,76
+2024-01-14 02:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Power Failure,91
+2024-01-14 03:00:00,Line_C,Genova Nervi,Cabin Signaling,Signal Loss,65
+2024-01-14 04:00:00,Line_C,Genova Brignole,Cabin Signaling,Power Failure,164
+2024-01-14 05:00:00,Line_A,Milano Centrale,ACC,Communication Error,69
+2024-01-14 06:00:00,Line_B,Torino Porta Nuova,ACC,Communication Error,151
+2024-01-14 07:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Signal Loss,20
+2024-01-14 08:00:00,Line_A,Genova Nervi,ACC,Hardware Fault,15
+2024-01-14 09:00:00,Line_A,Torino Porta Susa,Electronic Relay,Hardware Fault,92
+2024-01-14 10:00:00,Line_C,Genova Nervi,Electronic Relay,Signal Loss,21
+2024-01-14 11:00:00,Line_C,Milano Rogoredo,Electronic Relay,Signal Loss,149
+2024-01-14 12:00:00,Line_A,Torino Porta Susa,ACC,Hardware Fault,158
+2024-01-14 13:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Signal Loss,77
+2024-01-14 14:00:00,Line_B,Genova Brignole,Electronic Relay,Power Failure,167
+2024-01-14 15:00:00,Line_C,Torino Porta Susa,ACC,Power Failure,51
+2024-01-14 16:00:00,Line_A,Torino Porta Susa,ACC,Signal Loss,141
+2024-01-14 17:00:00,Line_C,Milano Rogoredo,Electronic Relay,Power Failure,82
+2024-01-14 18:00:00,Line_C,Genova Brignole,Electronic Relay,Hardware Fault,45
+2024-01-14 19:00:00,Line_B,Milano Rogoredo,Electronic Relay,Communication Error,167
+2024-01-14 20:00:00,Line_A,Genova Nervi,Cabin Signaling,Hardware Fault,111
+2024-01-14 21:00:00,Line_A,Torino Porta Nuova,ACC,Hardware Fault,30
+2024-01-14 22:00:00,Line_B,Milano Centrale,ACC,Communication Error,157
+2024-01-14 23:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Power Failure,94
+2024-01-15 00:00:00,Line_A,Torino Porta Nuova,ACC,Signal Loss,52
+2024-01-15 01:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Hardware Fault,93
+2024-01-15 02:00:00,Line_A,Milano Centrale,Cabin Signaling,Communication Error,61
+2024-01-15 03:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Hardware Fault,138
+2024-01-15 04:00:00,Line_A,Milano Centrale,ACC,Hardware Fault,42
+2024-01-15 05:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Signal Loss,65
+2024-01-15 06:00:00,Line_B,Torino Porta Nuova,ACC,Hardware Fault,168
+2024-01-15 07:00:00,Line_B,Genova Brignole,Cabin Signaling,Power Failure,52
+2024-01-15 08:00:00,Line_A,Genova Brignole,Cabin Signaling,Communication Error,137
+2024-01-15 09:00:00,Line_C,Genova Brignole,Electronic Relay,Signal Loss,108
+2024-01-15 10:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Hardware Fault,131
+2024-01-15 11:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Signal Loss,120
+2024-01-15 12:00:00,Line_A,Genova Brignole,Electronic Relay,Signal Loss,31
+2024-01-15 13:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Signal Loss,116
+2024-01-15 14:00:00,Line_C,Milano Rogoredo,ACC,Signal Loss,141
+2024-01-15 15:00:00,Line_A,Genova Brignole,ACC,Hardware Fault,157
+2024-01-15 16:00:00,Line_B,Genova Brignole,Electronic Relay,Communication Error,31
+2024-01-15 17:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Power Failure,147
+2024-01-15 18:00:00,Line_C,Milano Centrale,Cabin Signaling,Hardware Fault,172
+2024-01-15 19:00:00,Line_A,Genova Brignole,Electronic Relay,Hardware Fault,71
+2024-01-15 20:00:00,Line_B,Genova Brignole,Cabin Signaling,Hardware Fault,20
+2024-01-15 21:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Communication Error,94
+2024-01-15 22:00:00,Line_B,Genova Brignole,Cabin Signaling,Hardware Fault,39
+2024-01-15 23:00:00,Line_C,Milano Centrale,Cabin Signaling,Hardware Fault,21
+2024-01-16 00:00:00,Line_C,Genova Brignole,ACC,Power Failure,122
+2024-01-16 01:00:00,Line_C,Torino Porta Susa,ACC,Hardware Fault,172
+2024-01-16 02:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Power Failure,24
+2024-01-16 03:00:00,Line_B,Genova Nervi,Electronic Relay,Power Failure,62
+2024-01-16 04:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Hardware Fault,97
+2024-01-16 05:00:00,Line_B,Milano Centrale,Electronic Relay,Hardware Fault,79
+2024-01-16 06:00:00,Line_A,Torino Porta Nuova,ACC,Hardware Fault,9
+2024-01-16 07:00:00,Line_A,Milano Rogoredo,ACC,Hardware Fault,34
+2024-01-16 08:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Communication Error,147
+2024-01-16 09:00:00,Line_C,Milano Rogoredo,Electronic Relay,Hardware Fault,7
+2024-01-16 10:00:00,Line_B,Milano Rogoredo,ACC,Signal Loss,149
+2024-01-16 11:00:00,Line_A,Torino Porta Nuova,Electronic Relay,Power Failure,44
+2024-01-16 12:00:00,Line_A,Genova Nervi,ACC,Power Failure,17
+2024-01-16 13:00:00,Line_B,Torino Porta Nuova,ACC,Hardware Fault,93
+2024-01-16 14:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Communication Error,25
+2024-01-16 15:00:00,Line_C,Torino Porta Susa,Electronic Relay,Communication Error,112
+2024-01-16 16:00:00,Line_A,Genova Nervi,ACC,Power Failure,92
+2024-01-16 17:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Power Failure,86
+2024-01-16 18:00:00,Line_B,Genova Brignole,Cabin Signaling,Power Failure,174
+2024-01-16 19:00:00,Line_C,Milano Rogoredo,ACC,Hardware Fault,89
+2024-01-16 20:00:00,Line_B,Torino Porta Susa,Electronic Relay,Power Failure,85
+2024-01-16 21:00:00,Line_C,Torino Porta Susa,ACC,Communication Error,72
+2024-01-16 22:00:00,Line_B,Genova Nervi,ACC,Power Failure,43
+2024-01-16 23:00:00,Line_A,Torino Porta Susa,ACC,Power Failure,61
+2024-01-17 00:00:00,Line_A,Genova Brignole,ACC,Signal Loss,58
+2024-01-17 01:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Power Failure,67
+2024-01-17 02:00:00,Line_B,Genova Nervi,Cabin Signaling,Hardware Fault,96
+2024-01-17 03:00:00,Line_B,Milano Rogoredo,ACC,Signal Loss,99
+2024-01-17 04:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Signal Loss,131
+2024-01-17 05:00:00,Line_C,Torino Porta Susa,ACC,Hardware Fault,131
+2024-01-17 06:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Power Failure,148
+2024-01-17 07:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Power Failure,155
+2024-01-17 08:00:00,Line_C,Genova Nervi,Electronic Relay,Communication Error,164
+2024-01-17 09:00:00,Line_C,Milano Centrale,Electronic Relay,Hardware Fault,175
+2024-01-17 10:00:00,Line_B,Torino Porta Susa,ACC,Signal Loss,94
+2024-01-17 11:00:00,Line_A,Genova Nervi,Cabin Signaling,Power Failure,118
+2024-01-17 12:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Power Failure,97
+2024-01-17 13:00:00,Line_B,Genova Nervi,Electronic Relay,Communication Error,57
+2024-01-17 14:00:00,Line_C,Milano Centrale,Electronic Relay,Communication Error,92
+2024-01-17 15:00:00,Line_B,Genova Nervi,ACC,Signal Loss,21
+2024-01-17 16:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Signal Loss,79
+2024-01-17 17:00:00,Line_B,Milano Rogoredo,Electronic Relay,Hardware Fault,75
+2024-01-17 18:00:00,Line_B,Milano Centrale,Electronic Relay,Hardware Fault,11
+2024-01-17 19:00:00,Line_B,Genova Brignole,ACC,Communication Error,32
+2024-01-17 20:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Signal Loss,130
+2024-01-17 21:00:00,Line_C,Torino Porta Susa,ACC,Power Failure,66
+2024-01-17 22:00:00,Line_C,Genova Brignole,Cabin Signaling,Hardware Fault,133
+2024-01-17 23:00:00,Line_C,Torino Porta Susa,Electronic Relay,Communication Error,86
+2024-01-18 00:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Power Failure,39
+2024-01-18 01:00:00,Line_C,Torino Porta Susa,ACC,Communication Error,44
+2024-01-18 02:00:00,Line_C,Genova Brignole,ACC,Communication Error,14
+2024-01-18 03:00:00,Line_C,Genova Brignole,ACC,Power Failure,125
+2024-01-18 04:00:00,Line_A,Torino Porta Susa,ACC,Power Failure,87
+2024-01-18 05:00:00,Line_A,Milano Rogoredo,Electronic Relay,Power Failure,64
+2024-01-18 06:00:00,Line_A,Milano Centrale,Electronic Relay,Signal Loss,114
+2024-01-18 07:00:00,Line_A,Milano Rogoredo,ACC,Hardware Fault,162
+2024-01-18 08:00:00,Line_A,Milano Centrale,Cabin Signaling,Hardware Fault,138
+2024-01-18 09:00:00,Line_C,Genova Brignole,Electronic Relay,Communication Error,80
+2024-01-18 10:00:00,Line_A,Torino Porta Susa,ACC,Power Failure,89
+2024-01-18 11:00:00,Line_C,Milano Centrale,ACC,Signal Loss,15
+2024-01-18 12:00:00,Line_B,Genova Brignole,Electronic Relay,Power Failure,136
+2024-01-18 13:00:00,Line_C,Genova Brignole,ACC,Communication Error,16
+2024-01-18 14:00:00,Line_A,Torino Porta Susa,Electronic Relay,Hardware Fault,113
+2024-01-18 15:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Hardware Fault,109
+2024-01-18 16:00:00,Line_A,Milano Centrale,Electronic Relay,Communication Error,132
+2024-01-18 17:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Communication Error,146
+2024-01-18 18:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Signal Loss,153
+2024-01-18 19:00:00,Line_B,Genova Nervi,ACC,Hardware Fault,63
+2024-01-18 20:00:00,Line_A,Milano Rogoredo,ACC,Signal Loss,44
+2024-01-18 21:00:00,Line_A,Torino Porta Susa,Electronic Relay,Power Failure,96
+2024-01-18 22:00:00,Line_C,Milano Rogoredo,ACC,Hardware Fault,100
+2024-01-18 23:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Hardware Fault,143
+2024-01-19 00:00:00,Line_A,Torino Porta Susa,Electronic Relay,Hardware Fault,102
+2024-01-19 01:00:00,Line_C,Genova Nervi,Electronic Relay,Hardware Fault,102
+2024-01-19 02:00:00,Line_C,Milano Centrale,Cabin Signaling,Power Failure,105
+2024-01-19 03:00:00,Line_C,Milano Centrale,Electronic Relay,Hardware Fault,157
+2024-01-19 04:00:00,Line_B,Genova Nervi,ACC,Communication Error,176
+2024-01-19 05:00:00,Line_A,Torino Porta Nuova,ACC,Hardware Fault,135
+2024-01-19 06:00:00,Line_B,Milano Centrale,Electronic Relay,Hardware Fault,50
+2024-01-19 07:00:00,Line_B,Genova Brignole,ACC,Communication Error,105
+2024-01-19 08:00:00,Line_A,Genova Brignole,Cabin Signaling,Signal Loss,34
+2024-01-19 09:00:00,Line_B,Milano Rogoredo,Electronic Relay,Power Failure,132
+2024-01-19 10:00:00,Line_C,Torino Porta Susa,Electronic Relay,Power Failure,69
+2024-01-19 11:00:00,Line_C,Milano Rogoredo,Electronic Relay,Hardware Fault,159
+2024-01-19 12:00:00,Line_B,Genova Nervi,Cabin Signaling,Hardware Fault,66
+2024-01-19 13:00:00,Line_A,Milano Centrale,Electronic Relay,Signal Loss,18
+2024-01-19 14:00:00,Line_B,Genova Brignole,Electronic Relay,Communication Error,72
+2024-01-19 15:00:00,Line_B,Genova Nervi,ACC,Hardware Fault,59
+2024-01-19 16:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Communication Error,59
+2024-01-19 17:00:00,Line_B,Milano Rogoredo,ACC,Communication Error,63
+2024-01-19 18:00:00,Line_A,Genova Brignole,ACC,Power Failure,14
+2024-01-19 19:00:00,Line_C,Milano Centrale,ACC,Hardware Fault,117
+2024-01-19 20:00:00,Line_C,Genova Brignole,ACC,Signal Loss,115
+2024-01-19 21:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Hardware Fault,21
+2024-01-19 22:00:00,Line_B,Milano Centrale,Cabin Signaling,Hardware Fault,125
+2024-01-19 23:00:00,Line_C,Torino Porta Susa,Electronic Relay,Communication Error,173
+2024-01-20 00:00:00,Line_C,Genova Brignole,Cabin Signaling,Power Failure,48
+2024-01-20 01:00:00,Line_B,Genova Brignole,ACC,Hardware Fault,153
+2024-01-20 02:00:00,Line_B,Torino Porta Nuova,ACC,Communication Error,79
+2024-01-20 03:00:00,Line_C,Genova Nervi,Cabin Signaling,Hardware Fault,109
+2024-01-20 04:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Communication Error,126
+2024-01-20 05:00:00,Line_B,Genova Nervi,ACC,Signal Loss,24
+2024-01-20 06:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Hardware Fault,42
+2024-01-20 07:00:00,Line_A,Milano Centrale,Cabin Signaling,Hardware Fault,54
+2024-01-20 08:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Communication Error,70
+2024-01-20 09:00:00,Line_B,Milano Centrale,Cabin Signaling,Hardware Fault,76
+2024-01-20 10:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Hardware Fault,64
+2024-01-20 11:00:00,Line_C,Genova Nervi,ACC,Signal Loss,134
+2024-01-20 12:00:00,Line_A,Torino Porta Susa,Electronic Relay,Communication Error,12
+2024-01-20 13:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Signal Loss,17
+2024-01-20 14:00:00,Line_B,Milano Centrale,Electronic Relay,Power Failure,44
+2024-01-20 15:00:00,Line_B,Genova Nervi,Electronic Relay,Hardware Fault,7
+2024-01-20 16:00:00,Line_C,Torino Porta Nuova,ACC,Hardware Fault,146
+2024-01-20 17:00:00,Line_C,Genova Brignole,Cabin Signaling,Power Failure,86
+2024-01-20 18:00:00,Line_B,Torino Porta Susa,ACC,Hardware Fault,82
+2024-01-20 19:00:00,Line_A,Milano Rogoredo,ACC,Hardware Fault,133
+2024-01-20 20:00:00,Line_A,Milano Centrale,Cabin Signaling,Signal Loss,137
+2024-01-20 21:00:00,Line_C,Milano Centrale,ACC,Communication Error,93
+2024-01-20 22:00:00,Line_B,Torino Porta Susa,ACC,Power Failure,116
+2024-01-20 23:00:00,Line_C,Genova Brignole,ACC,Hardware Fault,131
+2024-01-21 00:00:00,Line_B,Milano Rogoredo,Electronic Relay,Hardware Fault,48
+2024-01-21 01:00:00,Line_C,Torino Porta Nuova,ACC,Signal Loss,55
+2024-01-21 02:00:00,Line_B,Torino Porta Nuova,ACC,Signal Loss,133
+2024-01-21 03:00:00,Line_A,Milano Centrale,Cabin Signaling,Communication Error,150
+2024-01-21 04:00:00,Line_C,Torino Porta Susa,ACC,Communication Error,48
+2024-01-21 05:00:00,Line_B,Milano Centrale,ACC,Power Failure,102
+2024-01-21 06:00:00,Line_A,Milano Centrale,Cabin Signaling,Communication Error,170
+2024-01-21 07:00:00,Line_B,Torino Porta Susa,ACC,Communication Error,37
+2024-01-21 08:00:00,Line_B,Genova Nervi,ACC,Power Failure,60
+2024-01-21 09:00:00,Line_B,Torino Porta Susa,ACC,Hardware Fault,147
+2024-01-21 10:00:00,Line_B,Genova Brignole,Electronic Relay,Communication Error,41
+2024-01-21 11:00:00,Line_C,Torino Porta Nuova,ACC,Communication Error,55
+2024-01-21 12:00:00,Line_C,Milano Rogoredo,ACC,Power Failure,63
+2024-01-21 13:00:00,Line_B,Genova Brignole,Cabin Signaling,Hardware Fault,68
+2024-01-21 14:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Communication Error,78
+2024-01-21 15:00:00,Line_A,Genova Nervi,Cabin Signaling,Signal Loss,109
+2024-01-21 16:00:00,Line_A,Torino Porta Nuova,Electronic Relay,Communication Error,132
+2024-01-21 17:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Power Failure,44
+2024-01-21 18:00:00,Line_C,Milano Centrale,Cabin Signaling,Power Failure,66
+2024-01-21 19:00:00,Line_A,Milano Centrale,Cabin Signaling,Power Failure,6
+2024-01-21 20:00:00,Line_C,Milano Rogoredo,Electronic Relay,Signal Loss,56
+2024-01-21 21:00:00,Line_B,Genova Brignole,Electronic Relay,Communication Error,148
+2024-01-21 22:00:00,Line_B,Milano Rogoredo,ACC,Power Failure,6
+2024-01-21 23:00:00,Line_A,Genova Nervi,Cabin Signaling,Communication Error,94
+2024-01-22 00:00:00,Line_B,Milano Rogoredo,Electronic Relay,Power Failure,175
+2024-01-22 01:00:00,Line_B,Milano Centrale,ACC,Hardware Fault,125
+2024-01-22 02:00:00,Line_C,Genova Brignole,ACC,Communication Error,32
+2024-01-22 03:00:00,Line_C,Milano Centrale,ACC,Signal Loss,57
+2024-01-22 04:00:00,Line_A,Genova Brignole,Electronic Relay,Signal Loss,137
+2024-01-22 05:00:00,Line_B,Genova Brignole,Cabin Signaling,Communication Error,95
+2024-01-22 06:00:00,Line_C,Milano Centrale,Cabin Signaling,Power Failure,100
+2024-01-22 07:00:00,Line_B,Genova Nervi,Electronic Relay,Power Failure,130
+2024-01-22 08:00:00,Line_B,Genova Nervi,Cabin Signaling,Signal Loss,49
+2024-01-22 09:00:00,Line_A,Milano Rogoredo,Electronic Relay,Hardware Fault,99
+2024-01-22 10:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Hardware Fault,178
+2024-01-22 11:00:00,Line_B,Torino Porta Nuova,ACC,Hardware Fault,12
+2024-01-22 12:00:00,Line_A,Genova Nervi,Electronic Relay,Communication Error,6
+2024-01-22 13:00:00,Line_A,Milano Centrale,ACC,Communication Error,116
+2024-01-22 14:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Power Failure,112
+2024-01-22 15:00:00,Line_A,Milano Centrale,ACC,Hardware Fault,37
+2024-01-22 16:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Communication Error,99
+2024-01-22 17:00:00,Line_C,Milano Rogoredo,Electronic Relay,Power Failure,131
+2024-01-22 18:00:00,Line_A,Torino Porta Susa,ACC,Signal Loss,113
+2024-01-22 19:00:00,Line_A,Torino Porta Susa,ACC,Hardware Fault,90
+2024-01-22 20:00:00,Line_B,Milano Rogoredo,Electronic Relay,Hardware Fault,74
+2024-01-22 21:00:00,Line_C,Milano Rogoredo,ACC,Signal Loss,149
+2024-01-22 22:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Hardware Fault,33
+2024-01-22 23:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Hardware Fault,44
+2024-01-23 00:00:00,Line_C,Genova Brignole,Cabin Signaling,Communication Error,167
+2024-01-23 01:00:00,Line_B,Milano Centrale,Cabin Signaling,Hardware Fault,15
+2024-01-23 02:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Communication Error,52
+2024-01-23 03:00:00,Line_B,Genova Brignole,Electronic Relay,Power Failure,139
+2024-01-23 04:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Communication Error,77
+2024-01-23 05:00:00,Line_B,Milano Centrale,Cabin Signaling,Power Failure,78
+2024-01-23 06:00:00,Line_A,Genova Nervi,Electronic Relay,Communication Error,118
+2024-01-23 07:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Signal Loss,55
+2024-01-23 08:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Communication Error,30
+2024-01-23 09:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Hardware Fault,165
+2024-01-23 10:00:00,Line_A,Genova Brignole,Cabin Signaling,Hardware Fault,102
+2024-01-23 11:00:00,Line_A,Milano Rogoredo,ACC,Signal Loss,128
+2024-01-23 12:00:00,Line_B,Milano Centrale,Cabin Signaling,Power Failure,151
+2024-01-23 13:00:00,Line_C,Milano Centrale,Electronic Relay,Signal Loss,8
+2024-01-23 14:00:00,Line_A,Torino Porta Susa,ACC,Hardware Fault,118
+2024-01-23 15:00:00,Line_C,Torino Porta Susa,Electronic Relay,Signal Loss,68
+2024-01-23 16:00:00,Line_C,Milano Rogoredo,Electronic Relay,Hardware Fault,81
+2024-01-23 17:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Hardware Fault,35
+2024-01-23 18:00:00,Line_C,Milano Rogoredo,Electronic Relay,Communication Error,73
+2024-01-23 19:00:00,Line_B,Genova Brignole,ACC,Hardware Fault,103
+2024-01-23 20:00:00,Line_B,Genova Nervi,Cabin Signaling,Communication Error,94
+2024-01-23 21:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Hardware Fault,112
+2024-01-23 22:00:00,Line_C,Milano Centrale,Electronic Relay,Communication Error,156
+2024-01-23 23:00:00,Line_A,Torino Porta Nuova,Electronic Relay,Hardware Fault,137
+2024-01-24 00:00:00,Line_C,Milano Centrale,Electronic Relay,Signal Loss,87
+2024-01-24 01:00:00,Line_A,Milano Rogoredo,Electronic Relay,Power Failure,131
+2024-01-24 02:00:00,Line_C,Milano Centrale,ACC,Hardware Fault,167
+2024-01-24 03:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Signal Loss,154
+2024-01-24 04:00:00,Line_B,Genova Brignole,ACC,Signal Loss,7
+2024-01-24 05:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Power Failure,37
+2024-01-24 06:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Power Failure,125
+2024-01-24 07:00:00,Line_C,Genova Brignole,ACC,Power Failure,63
+2024-01-24 08:00:00,Line_C,Milano Rogoredo,ACC,Hardware Fault,51
+2024-01-24 09:00:00,Line_C,Torino Porta Susa,ACC,Hardware Fault,82
+2024-01-24 10:00:00,Line_A,Milano Centrale,ACC,Hardware Fault,65
+2024-01-24 11:00:00,Line_A,Genova Brignole,Cabin Signaling,Power Failure,15
+2024-01-24 12:00:00,Line_A,Milano Centrale,Cabin Signaling,Communication Error,176
+2024-01-24 13:00:00,Line_C,Genova Nervi,ACC,Power Failure,147
+2024-01-24 14:00:00,Line_C,Genova Nervi,Electronic Relay,Hardware Fault,104
+2024-01-24 15:00:00,Line_A,Genova Brignole,Electronic Relay,Power Failure,111
+2024-01-24 16:00:00,Line_C,Milano Rogoredo,Electronic Relay,Power Failure,151
+2024-01-24 17:00:00,Line_B,Genova Brignole,Cabin Signaling,Signal Loss,137
+2024-01-24 18:00:00,Line_C,Genova Nervi,ACC,Signal Loss,103
+2024-01-24 19:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Power Failure,176
+2024-01-24 20:00:00,Line_B,Torino Porta Susa,Electronic Relay,Communication Error,12
+2024-01-24 21:00:00,Line_A,Milano Rogoredo,ACC,Power Failure,101
+2024-01-24 22:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Hardware Fault,70
+2024-01-24 23:00:00,Line_A,Milano Rogoredo,Electronic Relay,Power Failure,178
+2024-01-25 00:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Communication Error,177
+2024-01-25 01:00:00,Line_C,Genova Nervi,Electronic Relay,Signal Loss,5
+2024-01-25 02:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Signal Loss,5
+2024-01-25 03:00:00,Line_B,Genova Brignole,Cabin Signaling,Signal Loss,58
+2024-01-25 04:00:00,Line_B,Torino Porta Susa,Electronic Relay,Signal Loss,119
+2024-01-25 05:00:00,Line_C,Genova Brignole,Cabin Signaling,Hardware Fault,86
+2024-01-25 06:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Power Failure,152
+2024-01-25 07:00:00,Line_A,Genova Brignole,Cabin Signaling,Hardware Fault,78
+2024-01-25 08:00:00,Line_C,Genova Nervi,ACC,Communication Error,155
+2024-01-25 09:00:00,Line_B,Torino Porta Nuova,ACC,Signal Loss,33
+2024-01-25 10:00:00,Line_C,Torino Porta Nuova,ACC,Signal Loss,142
+2024-01-25 11:00:00,Line_C,Genova Nervi,Cabin Signaling,Power Failure,167
+2024-01-25 12:00:00,Line_C,Milano Rogoredo,Electronic Relay,Communication Error,90
+2024-01-25 13:00:00,Line_C,Milano Centrale,Electronic Relay,Communication Error,80
+2024-01-25 14:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Power Failure,127
+2024-01-25 15:00:00,Line_C,Genova Nervi,ACC,Communication Error,173
+2024-01-25 16:00:00,Line_B,Genova Nervi,Electronic Relay,Communication Error,12
+2024-01-25 17:00:00,Line_A,Genova Brignole,Electronic Relay,Hardware Fault,89
+2024-01-25 18:00:00,Line_B,Milano Rogoredo,ACC,Signal Loss,169
+2024-01-25 19:00:00,Line_C,Genova Brignole,Cabin Signaling,Communication Error,142
+2024-01-25 20:00:00,Line_A,Genova Nervi,ACC,Hardware Fault,161
+2024-01-25 21:00:00,Line_B,Torino Porta Susa,Electronic Relay,Power Failure,127
+2024-01-25 22:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Communication Error,40
+2024-01-25 23:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Communication Error,32
+2024-01-26 00:00:00,Line_B,Milano Centrale,ACC,Communication Error,172
+2024-01-26 01:00:00,Line_A,Milano Centrale,Electronic Relay,Signal Loss,20
+2024-01-26 02:00:00,Line_A,Torino Porta Susa,Electronic Relay,Hardware Fault,157
+2024-01-26 03:00:00,Line_C,Genova Nervi,ACC,Power Failure,31
+2024-01-26 04:00:00,Line_B,Genova Brignole,ACC,Hardware Fault,72
+2024-01-26 05:00:00,Line_A,Milano Centrale,Electronic Relay,Hardware Fault,135
+2024-01-26 06:00:00,Line_C,Genova Brignole,Cabin Signaling,Hardware Fault,176
+2024-01-26 07:00:00,Line_C,Milano Rogoredo,Electronic Relay,Hardware Fault,33
+2024-01-26 08:00:00,Line_B,Genova Brignole,ACC,Communication Error,126
+2024-01-26 09:00:00,Line_A,Milano Centrale,Electronic Relay,Communication Error,171
+2024-01-26 10:00:00,Line_A,Torino Porta Susa,ACC,Hardware Fault,33
+2024-01-26 11:00:00,Line_A,Genova Brignole,Cabin Signaling,Hardware Fault,108
+2024-01-26 12:00:00,Line_B,Milano Centrale,ACC,Signal Loss,77
+2024-01-26 13:00:00,Line_C,Genova Nervi,Electronic Relay,Hardware Fault,126
+2024-01-26 14:00:00,Line_B,Torino Porta Nuova,ACC,Hardware Fault,176
+2024-01-26 15:00:00,Line_B,Milano Centrale,Cabin Signaling,Power Failure,22
+2024-01-26 16:00:00,Line_C,Genova Nervi,Electronic Relay,Power Failure,142
+2024-01-26 17:00:00,Line_A,Torino Porta Susa,ACC,Signal Loss,10
+2024-01-26 18:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Signal Loss,22
+2024-01-26 19:00:00,Line_A,Torino Porta Nuova,ACC,Communication Error,48
+2024-01-26 20:00:00,Line_A,Milano Centrale,Cabin Signaling,Signal Loss,102
+2024-01-26 21:00:00,Line_B,Genova Brignole,Cabin Signaling,Power Failure,46
+2024-01-26 22:00:00,Line_B,Milano Centrale,Electronic Relay,Power Failure,117
+2024-01-26 23:00:00,Line_C,Genova Nervi,ACC,Communication Error,100
+2024-01-27 00:00:00,Line_C,Genova Nervi,ACC,Hardware Fault,13
+2024-01-27 01:00:00,Line_A,Torino Porta Susa,ACC,Signal Loss,117
+2024-01-27 02:00:00,Line_C,Torino Porta Susa,Electronic Relay,Communication Error,111
+2024-01-27 03:00:00,Line_B,Genova Brignole,Cabin Signaling,Hardware Fault,128
+2024-01-27 04:00:00,Line_C,Milano Centrale,ACC,Power Failure,105
+2024-01-27 05:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Signal Loss,43
+2024-01-27 06:00:00,Line_A,Torino Porta Susa,Electronic Relay,Signal Loss,62
+2024-01-27 07:00:00,Line_A,Torino Porta Nuova,ACC,Power Failure,55
+2024-01-27 08:00:00,Line_B,Milano Centrale,Electronic Relay,Power Failure,124
+2024-01-27 09:00:00,Line_A,Genova Nervi,Cabin Signaling,Signal Loss,151
+2024-01-27 10:00:00,Line_C,Genova Nervi,Electronic Relay,Hardware Fault,129
+2024-01-27 11:00:00,Line_B,Torino Porta Susa,Electronic Relay,Communication Error,149
+2024-01-27 12:00:00,Line_C,Genova Brignole,ACC,Hardware Fault,95
+2024-01-27 13:00:00,Line_B,Torino Porta Susa,ACC,Communication Error,124
+2024-01-27 14:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Signal Loss,86
+2024-01-27 15:00:00,Line_C,Milano Centrale,Electronic Relay,Communication Error,76
+2024-01-27 16:00:00,Line_B,Torino Porta Nuova,ACC,Communication Error,74
+2024-01-27 17:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Communication Error,116
+2024-01-27 18:00:00,Line_B,Milano Centrale,Cabin Signaling,Communication Error,161
+2024-01-27 19:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Hardware Fault,70
+2024-01-27 20:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Communication Error,70
+2024-01-27 21:00:00,Line_C,Genova Nervi,Cabin Signaling,Hardware Fault,86
+2024-01-27 22:00:00,Line_C,Milano Centrale,Cabin Signaling,Signal Loss,127
+2024-01-27 23:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Power Failure,14
+2024-01-28 00:00:00,Line_A,Genova Nervi,Electronic Relay,Hardware Fault,117
+2024-01-28 01:00:00,Line_B,Genova Nervi,ACC,Hardware Fault,96
+2024-01-28 02:00:00,Line_B,Genova Nervi,ACC,Hardware Fault,141
+2024-01-28 03:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Hardware Fault,143
+2024-01-28 04:00:00,Line_C,Genova Brignole,Cabin Signaling,Signal Loss,147
+2024-01-28 05:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Communication Error,167
+2024-01-28 06:00:00,Line_A,Torino Porta Susa,ACC,Communication Error,141
+2024-01-28 07:00:00,Line_A,Genova Nervi,ACC,Communication Error,108
+2024-01-28 08:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Communication Error,73
+2024-01-28 09:00:00,Line_C,Genova Nervi,Cabin Signaling,Power Failure,80
+2024-01-28 10:00:00,Line_B,Genova Brignole,Electronic Relay,Communication Error,79
+2024-01-28 11:00:00,Line_B,Milano Rogoredo,ACC,Hardware Fault,168
+2024-01-28 12:00:00,Line_B,Genova Brignole,Electronic Relay,Hardware Fault,92
+2024-01-28 13:00:00,Line_A,Torino Porta Nuova,ACC,Communication Error,130
+2024-01-28 14:00:00,Line_B,Milano Centrale,Electronic Relay,Power Failure,110
+2024-01-28 15:00:00,Line_B,Torino Porta Nuova,ACC,Hardware Fault,130
+2024-01-28 16:00:00,Line_A,Torino Porta Nuova,ACC,Power Failure,145
+2024-01-28 17:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Signal Loss,96
+2024-01-28 18:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Power Failure,53
+2024-01-28 19:00:00,Line_C,Genova Nervi,Electronic Relay,Power Failure,126
+2024-01-28 20:00:00,Line_A,Torino Porta Susa,Electronic Relay,Communication Error,122
+2024-01-28 21:00:00,Line_C,Genova Nervi,Cabin Signaling,Signal Loss,179
+2024-01-28 22:00:00,Line_B,Genova Brignole,Electronic Relay,Communication Error,118
+2024-01-28 23:00:00,Line_B,Genova Nervi,ACC,Power Failure,79
+2024-01-29 00:00:00,Line_C,Milano Centrale,ACC,Communication Error,69
+2024-01-29 01:00:00,Line_C,Torino Porta Susa,Electronic Relay,Communication Error,7
+2024-01-29 02:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Communication Error,66
+2024-01-29 03:00:00,Line_A,Milano Centrale,Cabin Signaling,Power Failure,175
+2024-01-29 04:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Signal Loss,82
+2024-01-29 05:00:00,Line_B,Genova Brignole,Electronic Relay,Hardware Fault,12
+2024-01-29 06:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Signal Loss,59
+2024-01-29 07:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Signal Loss,59
+2024-01-29 08:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Power Failure,150
+2024-01-29 09:00:00,Line_B,Milano Rogoredo,Electronic Relay,Hardware Fault,143
+2024-01-29 10:00:00,Line_A,Genova Brignole,ACC,Signal Loss,140
+2024-01-29 11:00:00,Line_C,Torino Porta Susa,Electronic Relay,Communication Error,12
+2024-01-29 12:00:00,Line_B,Milano Centrale,Cabin Signaling,Signal Loss,131
+2024-01-29 13:00:00,Line_B,Milano Rogoredo,Electronic Relay,Signal Loss,139
+2024-01-29 14:00:00,Line_B,Genova Brignole,ACC,Signal Loss,89
+2024-01-29 15:00:00,Line_C,Torino Porta Susa,ACC,Power Failure,131
+2024-01-29 16:00:00,Line_B,Genova Nervi,Cabin Signaling,Communication Error,156
+2024-01-29 17:00:00,Line_B,Milano Centrale,Cabin Signaling,Communication Error,133
+2024-01-29 18:00:00,Line_B,Milano Centrale,ACC,Communication Error,24
+2024-01-29 19:00:00,Line_B,Genova Nervi,ACC,Power Failure,13
+2024-01-29 20:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Power Failure,158
+2024-01-29 21:00:00,Line_B,Torino Porta Susa,ACC,Signal Loss,47
+2024-01-29 22:00:00,Line_A,Torino Porta Susa,ACC,Hardware Fault,171
+2024-01-29 23:00:00,Line_A,Torino Porta Nuova,ACC,Power Failure,35
+2024-01-30 00:00:00,Line_B,Milano Centrale,Electronic Relay,Communication Error,40
+2024-01-30 01:00:00,Line_A,Torino Porta Susa,ACC,Power Failure,31
+2024-01-30 02:00:00,Line_B,Milano Centrale,ACC,Communication Error,75
+2024-01-30 03:00:00,Line_C,Genova Nervi,ACC,Power Failure,179
+2024-01-30 04:00:00,Line_B,Milano Centrale,ACC,Communication Error,65
+2024-01-30 05:00:00,Line_C,Genova Nervi,Electronic Relay,Communication Error,163
+2024-01-30 06:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Hardware Fault,29
+2024-01-30 07:00:00,Line_B,Torino Porta Nuova,ACC,Power Failure,148
+2024-01-30 08:00:00,Line_C,Genova Nervi,Cabin Signaling,Power Failure,154
+2024-01-30 09:00:00,Line_B,Milano Centrale,ACC,Hardware Fault,35
+2024-01-30 10:00:00,Line_C,Milano Centrale,Cabin Signaling,Signal Loss,45
+2024-01-30 11:00:00,Line_A,Milano Centrale,Electronic Relay,Hardware Fault,36
+2024-01-30 12:00:00,Line_B,Milano Rogoredo,Electronic Relay,Power Failure,40
+2024-01-30 13:00:00,Line_B,Genova Brignole,ACC,Hardware Fault,43
+2024-01-30 14:00:00,Line_A,Milano Rogoredo,Electronic Relay,Hardware Fault,60
+2024-01-30 15:00:00,Line_A,Torino Porta Nuova,ACC,Hardware Fault,84
+2024-01-30 16:00:00,Line_B,Milano Centrale,Cabin Signaling,Power Failure,76
+2024-01-30 17:00:00,Line_B,Genova Nervi,Cabin Signaling,Communication Error,104
+2024-01-30 18:00:00,Line_A,Genova Brignole,ACC,Communication Error,67
+2024-01-30 19:00:00,Line_C,Genova Nervi,Electronic Relay,Signal Loss,89
+2024-01-30 20:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Hardware Fault,115
+2024-01-30 21:00:00,Line_C,Genova Brignole,ACC,Signal Loss,96
+2024-01-30 22:00:00,Line_B,Torino Porta Susa,Electronic Relay,Hardware Fault,20
+2024-01-30 23:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Power Failure,93
+2024-01-31 00:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Power Failure,162
+2024-01-31 01:00:00,Line_A,Torino Porta Susa,Electronic Relay,Communication Error,45
+2024-01-31 02:00:00,Line_A,Torino Porta Susa,Electronic Relay,Signal Loss,82
+2024-01-31 03:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Signal Loss,142
+2024-01-31 04:00:00,Line_A,Torino Porta Nuova,ACC,Hardware Fault,22
+2024-01-31 05:00:00,Line_A,Torino Porta Susa,Electronic Relay,Power Failure,35
+2024-01-31 06:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Signal Loss,167
+2024-01-31 07:00:00,Line_B,Milano Rogoredo,Electronic Relay,Power Failure,77
+2024-01-31 08:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Communication Error,9
+2024-01-31 09:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Power Failure,28
+2024-01-31 10:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Communication Error,108
+2024-01-31 11:00:00,Line_C,Milano Rogoredo,Electronic Relay,Hardware Fault,44
+2024-01-31 12:00:00,Line_A,Torino Porta Nuova,Electronic Relay,Communication Error,80
+2024-01-31 13:00:00,Line_A,Torino Porta Nuova,ACC,Signal Loss,15
+2024-01-31 14:00:00,Line_C,Torino Porta Susa,Electronic Relay,Power Failure,54
+2024-01-31 15:00:00,Line_B,Genova Brignole,Cabin Signaling,Power Failure,157
+2024-01-31 16:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Power Failure,110
+2024-01-31 17:00:00,Line_C,Genova Brignole,Cabin Signaling,Power Failure,125
+2024-01-31 18:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Communication Error,48
+2024-01-31 19:00:00,Line_A,Torino Porta Susa,Electronic Relay,Hardware Fault,145
+2024-01-31 20:00:00,Line_B,Milano Centrale,ACC,Power Failure,166
+2024-01-31 21:00:00,Line_A,Milano Centrale,Cabin Signaling,Hardware Fault,178
+2024-01-31 22:00:00,Line_A,Torino Porta Susa,Electronic Relay,Hardware Fault,104
+2024-01-31 23:00:00,Line_C,Genova Brignole,ACC,Communication Error,72
+2024-02-01 00:00:00,Line_B,Genova Nervi,Electronic Relay,Communication Error,131
+2024-02-01 01:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Hardware Fault,160
+2024-02-01 02:00:00,Line_B,Milano Centrale,Cabin Signaling,Power Failure,137
+2024-02-01 03:00:00,Line_C,Milano Rogoredo,ACC,Hardware Fault,176
+2024-02-01 04:00:00,Line_A,Milano Centrale,ACC,Communication Error,19
+2024-02-01 05:00:00,Line_B,Genova Brignole,Cabin Signaling,Hardware Fault,58
+2024-02-01 06:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Communication Error,107
+2024-02-01 07:00:00,Line_B,Torino Porta Susa,Electronic Relay,Hardware Fault,49
+2024-02-01 08:00:00,Line_B,Genova Nervi,Electronic Relay,Hardware Fault,32
+2024-02-01 09:00:00,Line_C,Milano Centrale,Electronic Relay,Communication Error,141
+2024-02-01 10:00:00,Line_A,Milano Rogoredo,Electronic Relay,Power Failure,13
+2024-02-01 11:00:00,Line_B,Milano Rogoredo,Electronic Relay,Communication Error,39
+2024-02-01 12:00:00,Line_C,Torino Porta Susa,ACC,Signal Loss,23
+2024-02-01 13:00:00,Line_A,Genova Nervi,ACC,Communication Error,22
+2024-02-01 14:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Power Failure,133
+2024-02-01 15:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Communication Error,43
+2024-02-01 16:00:00,Line_C,Milano Centrale,Cabin Signaling,Communication Error,119
+2024-02-01 17:00:00,Line_A,Genova Nervi,Electronic Relay,Power Failure,155
+2024-02-01 18:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Hardware Fault,70
+2024-02-01 19:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Power Failure,171
+2024-02-01 20:00:00,Line_C,Milano Centrale,ACC,Power Failure,56
+2024-02-01 21:00:00,Line_B,Milano Centrale,ACC,Communication Error,85
+2024-02-01 22:00:00,Line_C,Genova Nervi,ACC,Power Failure,161
+2024-02-01 23:00:00,Line_A,Milano Rogoredo,Electronic Relay,Communication Error,158
+2024-02-02 00:00:00,Line_C,Genova Brignole,Cabin Signaling,Communication Error,123
+2024-02-02 01:00:00,Line_C,Genova Nervi,Electronic Relay,Communication Error,79
+2024-02-02 02:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Power Failure,175
+2024-02-02 03:00:00,Line_B,Genova Brignole,ACC,Communication Error,59
+2024-02-02 04:00:00,Line_B,Milano Rogoredo,Electronic Relay,Hardware Fault,120
+2024-02-02 05:00:00,Line_A,Genova Brignole,Electronic Relay,Signal Loss,123
+2024-02-02 06:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Communication Error,137
+2024-02-02 07:00:00,Line_B,Milano Rogoredo,ACC,Power Failure,119
+2024-02-02 08:00:00,Line_B,Genova Brignole,ACC,Power Failure,59
+2024-02-02 09:00:00,Line_C,Milano Centrale,Electronic Relay,Power Failure,149
+2024-02-02 10:00:00,Line_C,Torino Porta Nuova,ACC,Hardware Fault,151
+2024-02-02 11:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Power Failure,88
+2024-02-02 12:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Communication Error,149
+2024-02-02 13:00:00,Line_C,Milano Centrale,ACC,Communication Error,106
+2024-02-02 14:00:00,Line_C,Genova Nervi,Cabin Signaling,Hardware Fault,90
+2024-02-02 15:00:00,Line_B,Genova Nervi,ACC,Hardware Fault,164
+2024-02-02 16:00:00,Line_C,Genova Nervi,ACC,Communication Error,49
+2024-02-02 17:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Hardware Fault,173
+2024-02-02 18:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Hardware Fault,18
+2024-02-02 19:00:00,Line_A,Torino Porta Nuova,Cabin Signaling,Hardware Fault,14
+2024-02-02 20:00:00,Line_B,Milano Centrale,Electronic Relay,Communication Error,93
+2024-02-02 21:00:00,Line_B,Milano Centrale,ACC,Communication Error,46
+2024-02-02 22:00:00,Line_B,Milano Centrale,Cabin Signaling,Signal Loss,86
+2024-02-02 23:00:00,Line_A,Genova Nervi,Electronic Relay,Signal Loss,15
+2024-02-03 00:00:00,Line_A,Torino Porta Nuova,Electronic Relay,Communication Error,175
+2024-02-03 01:00:00,Line_B,Milano Centrale,ACC,Signal Loss,123
+2024-02-03 02:00:00,Line_B,Milano Centrale,Electronic Relay,Power Failure,94
+2024-02-03 03:00:00,Line_A,Genova Brignole,ACC,Communication Error,72
+2024-02-03 04:00:00,Line_B,Genova Brignole,Cabin Signaling,Power Failure,148
+2024-02-03 05:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Power Failure,165
+2024-02-03 06:00:00,Line_A,Milano Rogoredo,ACC,Communication Error,63
+2024-02-03 07:00:00,Line_A,Genova Brignole,ACC,Power Failure,115
+2024-02-03 08:00:00,Line_C,Torino Porta Susa,Electronic Relay,Signal Loss,96
+2024-02-03 09:00:00,Line_A,Torino Porta Nuova,ACC,Signal Loss,27
+2024-02-03 10:00:00,Line_C,Milano Centrale,Electronic Relay,Signal Loss,140
+2024-02-03 11:00:00,Line_A,Torino Porta Nuova,ACC,Communication Error,40
+2024-02-03 12:00:00,Line_B,Genova Nervi,Electronic Relay,Hardware Fault,47
+2024-02-03 13:00:00,Line_B,Genova Nervi,Cabin Signaling,Power Failure,151
+2024-02-03 14:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Power Failure,80
+2024-02-03 15:00:00,Line_C,Genova Brignole,Electronic Relay,Power Failure,29
+2024-02-03 16:00:00,Line_C,Torino Porta Nuova,ACC,Power Failure,87
+2024-02-03 17:00:00,Line_A,Torino Porta Susa,Electronic Relay,Hardware Fault,125
+2024-02-03 18:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Power Failure,130
+2024-02-03 19:00:00,Line_C,Milano Centrale,Cabin Signaling,Communication Error,36
+2024-02-03 20:00:00,Line_C,Milano Rogoredo,Electronic Relay,Hardware Fault,92
+2024-02-03 21:00:00,Line_A,Genova Nervi,ACC,Hardware Fault,156
+2024-02-03 22:00:00,Line_A,Milano Centrale,ACC,Hardware Fault,39
+2024-02-03 23:00:00,Line_B,Milano Centrale,Cabin Signaling,Signal Loss,160
+2024-02-04 00:00:00,Line_C,Genova Nervi,Electronic Relay,Power Failure,12
+2024-02-04 01:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Communication Error,81
+2024-02-04 02:00:00,Line_B,Genova Nervi,Cabin Signaling,Communication Error,75
+2024-02-04 03:00:00,Line_C,Torino Porta Susa,ACC,Signal Loss,5
+2024-02-04 04:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Hardware Fault,92
+2024-02-04 05:00:00,Line_B,Genova Brignole,Cabin Signaling,Power Failure,161
+2024-02-04 06:00:00,Line_B,Torino Porta Susa,Electronic Relay,Signal Loss,66
+2024-02-04 07:00:00,Line_B,Torino Porta Susa,ACC,Hardware Fault,37
+2024-02-04 08:00:00,Line_B,Genova Nervi,ACC,Power Failure,104
+2024-02-04 09:00:00,Line_A,Torino Porta Nuova,ACC,Hardware Fault,107
+2024-02-04 10:00:00,Line_A,Milano Centrale,Cabin Signaling,Communication Error,78
+2024-02-04 11:00:00,Line_A,Genova Brignole,ACC,Hardware Fault,102
+2024-02-04 12:00:00,Line_C,Genova Brignole,ACC,Hardware Fault,118
+2024-02-04 13:00:00,Line_A,Genova Nervi,Electronic Relay,Hardware Fault,138
+2024-02-04 14:00:00,Line_A,Genova Brignole,Cabin Signaling,Hardware Fault,149
+2024-02-04 15:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Communication Error,57
+2024-02-04 16:00:00,Line_C,Genova Brignole,ACC,Communication Error,30
+2024-02-04 17:00:00,Line_C,Milano Centrale,ACC,Power Failure,138
+2024-02-04 18:00:00,Line_C,Torino Porta Susa,Electronic Relay,Communication Error,23
+2024-02-04 19:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Hardware Fault,103
+2024-02-04 20:00:00,Line_B,Genova Brignole,Electronic Relay,Power Failure,49
+2024-02-04 21:00:00,Line_C,Torino Porta Nuova,ACC,Communication Error,71
+2024-02-04 22:00:00,Line_A,Genova Brignole,Cabin Signaling,Communication Error,16
+2024-02-04 23:00:00,Line_B,Genova Nervi,ACC,Hardware Fault,11
+2024-02-05 00:00:00,Line_B,Milano Rogoredo,ACC,Power Failure,147
+2024-02-05 01:00:00,Line_A,Genova Brignole,Electronic Relay,Signal Loss,16
+2024-02-05 02:00:00,Line_C,Genova Nervi,Cabin Signaling,Signal Loss,86
+2024-02-05 03:00:00,Line_A,Genova Nervi,Cabin Signaling,Hardware Fault,13
+2024-02-05 04:00:00,Line_A,Milano Centrale,Electronic Relay,Signal Loss,120
+2024-02-05 05:00:00,Line_B,Genova Brignole,Electronic Relay,Power Failure,138
+2024-02-05 06:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Communication Error,171
+2024-02-05 07:00:00,Line_B,Torino Porta Nuova,ACC,Communication Error,30
+2024-02-05 08:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Hardware Fault,72
+2024-02-05 09:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Power Failure,161
+2024-02-05 10:00:00,Line_B,Torino Porta Susa,Electronic Relay,Hardware Fault,129
+2024-02-05 11:00:00,Line_B,Genova Brignole,Electronic Relay,Signal Loss,33
+2024-02-05 12:00:00,Line_A,Torino Porta Nuova,ACC,Signal Loss,72
+2024-02-05 13:00:00,Line_C,Genova Brignole,ACC,Signal Loss,114
+2024-02-05 14:00:00,Line_A,Milano Centrale,Electronic Relay,Signal Loss,119
+2024-02-05 15:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Hardware Fault,12
+2024-02-05 16:00:00,Line_C,Genova Nervi,Electronic Relay,Communication Error,77
+2024-02-05 17:00:00,Line_C,Genova Brignole,ACC,Communication Error,171
+2024-02-05 18:00:00,Line_C,Torino Porta Susa,Electronic Relay,Hardware Fault,137
+2024-02-05 19:00:00,Line_A,Milano Centrale,Electronic Relay,Signal Loss,71
+2024-02-05 20:00:00,Line_B,Milano Centrale,ACC,Hardware Fault,8
+2024-02-05 21:00:00,Line_B,Genova Brignole,ACC,Signal Loss,123
+2024-02-05 22:00:00,Line_B,Torino Porta Susa,ACC,Hardware Fault,18
+2024-02-05 23:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Hardware Fault,125
+2024-02-06 00:00:00,Line_A,Milano Centrale,Cabin Signaling,Signal Loss,9
+2024-02-06 01:00:00,Line_A,Genova Brignole,Electronic Relay,Communication Error,94
+2024-02-06 02:00:00,Line_A,Genova Nervi,Electronic Relay,Hardware Fault,53
+2024-02-06 03:00:00,Line_C,Torino Porta Nuova,ACC,Communication Error,61
+2024-02-06 04:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Signal Loss,67
+2024-02-06 05:00:00,Line_A,Torino Porta Susa,ACC,Signal Loss,54
+2024-02-06 06:00:00,Line_B,Milano Centrale,Electronic Relay,Hardware Fault,151
+2024-02-06 07:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Communication Error,81
+2024-02-06 08:00:00,Line_A,Genova Brignole,Cabin Signaling,Communication Error,68
+2024-02-06 09:00:00,Line_C,Genova Nervi,ACC,Hardware Fault,102
+2024-02-06 10:00:00,Line_B,Milano Rogoredo,Electronic Relay,Hardware Fault,154
+2024-02-06 11:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Hardware Fault,21
+2024-02-06 12:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Signal Loss,7
+2024-02-06 13:00:00,Line_B,Genova Brignole,ACC,Power Failure,139
+2024-02-06 14:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Signal Loss,22
+2024-02-06 15:00:00,Line_B,Genova Brignole,Cabin Signaling,Signal Loss,145
+2024-02-06 16:00:00,Line_B,Genova Nervi,Cabin Signaling,Signal Loss,123
+2024-02-06 17:00:00,Line_B,Milano Centrale,Electronic Relay,Hardware Fault,74
+2024-02-06 18:00:00,Line_C,Torino Porta Nuova,ACC,Hardware Fault,125
+2024-02-06 19:00:00,Line_B,Torino Porta Susa,Electronic Relay,Power Failure,5
+2024-02-06 20:00:00,Line_C,Genova Brignole,Electronic Relay,Communication Error,9
+2024-02-06 21:00:00,Line_A,Torino Porta Nuova,ACC,Communication Error,127
+2024-02-06 22:00:00,Line_A,Genova Brignole,Cabin Signaling,Hardware Fault,127
+2024-02-06 23:00:00,Line_A,Genova Nervi,Cabin Signaling,Signal Loss,48
+2024-02-07 00:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Hardware Fault,9
+2024-02-07 01:00:00,Line_B,Genova Nervi,ACC,Power Failure,113
+2024-02-07 02:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Power Failure,27
+2024-02-07 03:00:00,Line_A,Genova Nervi,Cabin Signaling,Signal Loss,7
+2024-02-07 04:00:00,Line_B,Torino Porta Susa,Electronic Relay,Power Failure,158
+2024-02-07 05:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Signal Loss,137
+2024-02-07 06:00:00,Line_A,Genova Nervi,ACC,Communication Error,90
+2024-02-07 07:00:00,Line_B,Genova Brignole,Electronic Relay,Signal Loss,69
+2024-02-07 08:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Hardware Fault,171
+2024-02-07 09:00:00,Line_C,Milano Centrale,Electronic Relay,Communication Error,47
+2024-02-07 10:00:00,Line_C,Torino Porta Susa,ACC,Hardware Fault,114
+2024-02-07 11:00:00,Line_B,Torino Porta Susa,Cabin Signaling,Communication Error,81
+2024-02-07 12:00:00,Line_C,Genova Brignole,Cabin Signaling,Power Failure,64
+2024-02-07 13:00:00,Line_C,Genova Brignole,Electronic Relay,Power Failure,70
+2024-02-07 14:00:00,Line_A,Genova Nervi,Electronic Relay,Hardware Fault,6
+2024-02-07 15:00:00,Line_B,Genova Nervi,Electronic Relay,Hardware Fault,83
+2024-02-07 16:00:00,Line_C,Torino Porta Susa,Electronic Relay,Communication Error,114
+2024-02-07 17:00:00,Line_A,Genova Brignole,ACC,Communication Error,52
+2024-02-07 18:00:00,Line_C,Milano Rogoredo,Electronic Relay,Power Failure,97
+2024-02-07 19:00:00,Line_A,Torino Porta Nuova,ACC,Power Failure,33
+2024-02-07 20:00:00,Line_A,Milano Rogoredo,Electronic Relay,Signal Loss,29
+2024-02-07 21:00:00,Line_C,Milano Centrale,Cabin Signaling,Communication Error,166
+2024-02-07 22:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Communication Error,169
+2024-02-07 23:00:00,Line_A,Torino Porta Susa,ACC,Power Failure,179
+2024-02-08 00:00:00,Line_A,Milano Centrale,Cabin Signaling,Power Failure,40
+2024-02-08 01:00:00,Line_C,Torino Porta Susa,Electronic Relay,Power Failure,46
+2024-02-08 02:00:00,Line_A,Milano Centrale,Electronic Relay,Power Failure,147
+2024-02-08 03:00:00,Line_C,Milano Rogoredo,Electronic Relay,Signal Loss,119
+2024-02-08 04:00:00,Line_B,Genova Nervi,ACC,Hardware Fault,112
+2024-02-08 05:00:00,Line_A,Torino Porta Susa,ACC,Hardware Fault,56
+2024-02-08 06:00:00,Line_B,Torino Porta Nuova,Cabin Signaling,Communication Error,150
+2024-02-08 07:00:00,Line_C,Torino Porta Nuova,ACC,Signal Loss,33
+2024-02-08 08:00:00,Line_C,Milano Rogoredo,Electronic Relay,Communication Error,147
+2024-02-08 09:00:00,Line_C,Genova Brignole,ACC,Signal Loss,168
+2024-02-08 10:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Signal Loss,13
+2024-02-08 11:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Hardware Fault,25
+2024-02-08 12:00:00,Line_C,Genova Nervi,Electronic Relay,Communication Error,42
+2024-02-08 13:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Communication Error,71
+2024-02-08 14:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Hardware Fault,66
+2024-02-08 15:00:00,Line_A,Torino Porta Nuova,ACC,Signal Loss,110
+2024-02-08 16:00:00,Line_B,Genova Nervi,ACC,Communication Error,112
+2024-02-08 17:00:00,Line_B,Genova Nervi,ACC,Signal Loss,140
+2024-02-08 18:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Communication Error,12
+2024-02-08 19:00:00,Line_A,Milano Rogoredo,Electronic Relay,Communication Error,131
+2024-02-08 20:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Hardware Fault,177
+2024-02-08 21:00:00,Line_A,Genova Brignole,Cabin Signaling,Signal Loss,133
+2024-02-08 22:00:00,Line_A,Genova Brignole,Cabin Signaling,Signal Loss,83
+2024-02-08 23:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Power Failure,175
+2024-02-09 00:00:00,Line_C,Genova Nervi,ACC,Power Failure,13
+2024-02-09 01:00:00,Line_B,Genova Nervi,Cabin Signaling,Power Failure,106
+2024-02-09 02:00:00,Line_C,Genova Brignole,Electronic Relay,Communication Error,167
+2024-02-09 03:00:00,Line_C,Torino Porta Susa,ACC,Power Failure,151
+2024-02-09 04:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Hardware Fault,47
+2024-02-09 05:00:00,Line_C,Milano Rogoredo,ACC,Signal Loss,150
+2024-02-09 06:00:00,Line_A,Genova Brignole,ACC,Power Failure,56
+2024-02-09 07:00:00,Line_B,Genova Brignole,Cabin Signaling,Communication Error,65
+2024-02-09 08:00:00,Line_B,Torino Porta Susa,Electronic Relay,Communication Error,41
+2024-02-09 09:00:00,Line_B,Genova Brignole,Electronic Relay,Hardware Fault,129
+2024-02-09 10:00:00,Line_C,Milano Rogoredo,ACC,Hardware Fault,73
+2024-02-09 11:00:00,Line_C,Torino Porta Susa,Electronic Relay,Signal Loss,152
+2024-02-09 12:00:00,Line_C,Torino Porta Susa,ACC,Signal Loss,35
+2024-02-09 13:00:00,Line_C,Genova Brignole,Electronic Relay,Signal Loss,41
+2024-02-09 14:00:00,Line_C,Milano Rogoredo,ACC,Hardware Fault,98
+2024-02-09 15:00:00,Line_C,Genova Nervi,Electronic Relay,Communication Error,16
+2024-02-09 16:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Hardware Fault,163
+2024-02-09 17:00:00,Line_A,Milano Centrale,ACC,Communication Error,138
+2024-02-09 18:00:00,Line_B,Genova Brignole,Electronic Relay,Power Failure,57
+2024-02-09 19:00:00,Line_A,Torino Porta Nuova,ACC,Power Failure,75
+2024-02-09 20:00:00,Line_A,Torino Porta Susa,ACC,Hardware Fault,166
+2024-02-09 21:00:00,Line_C,Torino Porta Nuova,Cabin Signaling,Communication Error,169
+2024-02-09 22:00:00,Line_C,Genova Brignole,Cabin Signaling,Power Failure,86
+2024-02-09 23:00:00,Line_A,Milano Centrale,ACC,Hardware Fault,38
+2024-02-10 00:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Hardware Fault,67
+2024-02-10 01:00:00,Line_A,Torino Porta Nuova,Electronic Relay,Power Failure,24
+2024-02-10 02:00:00,Line_A,Torino Porta Susa,ACC,Communication Error,25
+2024-02-10 03:00:00,Line_B,Milano Rogoredo,Cabin Signaling,Communication Error,123
+2024-02-10 04:00:00,Line_C,Torino Porta Susa,Cabin Signaling,Power Failure,64
+2024-02-10 05:00:00,Line_B,Torino Porta Susa,Electronic Relay,Power Failure,102
+2024-02-10 06:00:00,Line_B,Milano Centrale,Cabin Signaling,Communication Error,143
+2024-02-10 07:00:00,Line_B,Torino Porta Susa,ACC,Communication Error,60
+2024-02-10 08:00:00,Line_A,Genova Nervi,Electronic Relay,Communication Error,161
+2024-02-10 09:00:00,Line_A,Milano Centrale,Cabin Signaling,Communication Error,45
+2024-02-10 10:00:00,Line_A,Torino Porta Susa,ACC,Signal Loss,132
+2024-02-10 11:00:00,Line_A,Torino Porta Nuova,Electronic Relay,Power Failure,75
+2024-02-10 12:00:00,Line_A,Milano Centrale,Electronic Relay,Hardware Fault,148
+2024-02-10 13:00:00,Line_B,Genova Brignole,ACC,Communication Error,21
+2024-02-10 14:00:00,Line_C,Genova Nervi,ACC,Communication Error,64
+2024-02-10 15:00:00,Line_A,Genova Brignole,Cabin Signaling,Signal Loss,102
+2024-02-10 16:00:00,Line_C,Torino Porta Nuova,Electronic Relay,Power Failure,50
+2024-02-10 17:00:00,Line_A,Genova Nervi,ACC,Hardware Fault,44
+2024-02-10 18:00:00,Line_C,Genova Brignole,ACC,Hardware Fault,40
+2024-02-10 19:00:00,Line_A,Genova Brignole,Cabin Signaling,Power Failure,11
+2024-02-10 20:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Hardware Fault,39
+2024-02-10 21:00:00,Line_C,Milano Rogoredo,ACC,Hardware Fault,45
+2024-02-10 22:00:00,Line_B,Torino Porta Nuova,ACC,Hardware Fault,134
+2024-02-10 23:00:00,Line_A,Milano Centrale,Electronic Relay,Communication Error,87
+2024-02-11 00:00:00,Line_A,Milano Rogoredo,Electronic Relay,Power Failure,51
+2024-02-11 01:00:00,Line_B,Genova Brignole,Electronic Relay,Power Failure,20
+2024-02-11 02:00:00,Line_B,Milano Rogoredo,Electronic Relay,Hardware Fault,128
+2024-02-11 03:00:00,Line_B,Milano Rogoredo,ACC,Hardware Fault,174
+2024-02-11 04:00:00,Line_A,Milano Rogoredo,Electronic Relay,Signal Loss,167
+2024-02-11 05:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Power Failure,141
+2024-02-11 06:00:00,Line_A,Milano Rogoredo,Cabin Signaling,Signal Loss,16
+2024-02-11 07:00:00,Line_B,Torino Porta Nuova,Electronic Relay,Communication Error,133
+2024-02-11 08:00:00,Line_C,Torino Porta Nuova,ACC,Hardware Fault,62
+2024-02-11 09:00:00,Line_B,Genova Nervi,Electronic Relay,Signal Loss,12
+2024-02-11 10:00:00,Line_A,Genova Brignole,Cabin Signaling,Power Failure,139
+2024-02-11 11:00:00,Line_C,Milano Rogoredo,Cabin Signaling,Hardware Fault,129
+2024-02-11 12:00:00,Line_B,Genova Nervi,Electronic Relay,Power Failure,165
+2024-02-11 13:00:00,Line_B,Genova Brignole,Cabin Signaling,Hardware Fault,29
+2024-02-11 14:00:00,Line_A,Torino Porta Susa,Cabin Signaling,Power Failure,64
+2024-02-11 15:00:00,Line_C,Genova Brignole,Cabin Signaling,Hardware Fault,103
